@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Nur",
+    "slug": "nur-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0E2A2B",
+    "splash": {
+      "backgroundColor": "#0E2A2B"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lookgood.nur"
+    },
+    "android": {
+      "package": "com.lookgood.nur",
+      "adaptiveIcon": {
+        "backgroundColor": "#0E2A2B"
+      }
+    }
+  }
+}
